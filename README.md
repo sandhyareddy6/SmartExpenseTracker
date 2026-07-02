@@ -102,5 +102,5 @@ Example menu:
 
 ## Author
 
-(Add your name here)
+DEVI REDDY SAI SANDHYA 
 
